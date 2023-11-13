@@ -9,7 +9,10 @@
     height: 100vh;
     padding: 0;
     border: 0;
-    background: linear-gradient(to bottom right,  #F1F2B5, #eef2f3);
+    background-image: url(https://i.postimg.cc/NGp6w9qj/Sunset-Over-The-Sea-AI-Generated-4-K-Wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
   }
   
   .form {
